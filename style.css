@@ -1,0 +1,35 @@
+main {
+    width: 100%;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: space-around;
+    min-height: 100px;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+main div {
+    width: 100px;
+    height: 70px;
+}
+
+#red {
+    flex-basis: 400px;
+    background-color: red;
+}
+
+#blue {
+    flex-basis: 400px;
+    background-color: lightblue;
+}
+
+#green {
+    flex-basis: 400px;
+    background-color: lightgreen;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}

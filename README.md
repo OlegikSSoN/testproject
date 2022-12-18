@@ -1,1 +1,4 @@
 # testproject
+git
+init
+test
