@@ -11,7 +11,7 @@ main {
 
 main div {
     width: 100px;
-    height: 70px;
+    min-height: 70px;
 }
 
 #red {
@@ -29,7 +29,7 @@ main div {
     background-color: lightgreen;
 }
 
-table {
+#img {
     width: 100%;
-    border-collapse: collapse;
+    height: 100%;
 }
